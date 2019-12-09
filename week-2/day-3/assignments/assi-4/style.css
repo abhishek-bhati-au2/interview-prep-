@@ -1,0 +1,15 @@
+button {
+    display: block;
+    margin: 20px 0 0 0;
+    clear: both
+    }  
+
+
+   span, p {
+    width: 160px;
+    height: 40px;
+    float: left;
+    padding: 10px;
+    margin: 10px;
+    background-color: #B0E0E6
+  }
